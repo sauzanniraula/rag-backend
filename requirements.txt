@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+pinecone-client
+openai
+redis
+pymongo
+pdfplumber
+python-dotenv
